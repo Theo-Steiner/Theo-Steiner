@@ -12,7 +12,7 @@ Random Facts about me 🙈 私について：
 - 💿 素晴らしいデザイナーと組んで、[MortimerBaltus](https://mortimerbaltus.com) としてフリーランスの仕事もしています。
 - 🎓 I'm currently working towards a master's in Japanese Literature at Sophia University in Tokyo.
 - 📚 上智大学で現代日本文学における都市空間について研究しています。
-- 👯 Very honored to be one of the inaugural [Svelte Ambassadors](https://svelte.dev/blog/accelerating-sveltes-development#:~:text=theo,-We%E2%80%99re%20also%20testing) among so many of my WebDev heroes!
-- 👻 [スベルト・アンバサダー](https://svelte.dev/blog/accelerating-sveltes-development#:~:text=theo,-We%E2%80%99re%20also%20testing)に指名されたので、スベルトにもっと人気が集まるようにこれからも頑張りたいと思います！
+- 👯 Very honored to be one of the inaugural [Svelte Ambassadors](https://svelte.dev/blog/accelerating-sveltes-development#:~:text=theo) among so many of my WebDev heroes!
+- 👻 [スベルト・アンバサダー](https://svelte.jp/blog/accelerating-sveltes-development#:~:text=theo)に指名されたので、スベルトにもっと人気が集まるようにこれからも頑張りたいと思います！
 - 🤐 Also a mod in the svelte discord, so you better star my projects if you want to avoid the ban hammer.
 - ⚡ 日本のコミュニティーでも活動しています！2月3日の交流会でLightningTalkしたい方、是非ご連絡をお願いいたします。
