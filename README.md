@@ -17,4 +17,4 @@ Random Facts about me 🙈 私について：
 - 👯 Very honored to be one of the inaugural [Svelte Ambassadors](https://svelte.dev/blog/accelerating-sveltes-development#:~:text=theo) among so many of my WebDev heroes!
 - 👻 [スベルト・アンバサダー](https://svelte.jp/blog/accelerating-sveltes-development#:~:text=theo)に指名されたので、スベルトにもっと人気が集まるようにこれからも頑張りたいと思います！
 - 🤐 Also a mod in the svelte discord, so you better star my projects if you want to avoid the ban hammer.
-- ⚡ 日本のコミュニティーでも活動しています！。
+- ⚡ 日本のコミュニティーでも活動しています！
