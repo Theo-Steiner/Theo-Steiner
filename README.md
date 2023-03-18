@@ -18,3 +18,7 @@ Random Facts about me 🙈 私について：
 - 👻 [スベルト・アンバサダー](https://svelte.jp/blog/accelerating-sveltes-development#:~:text=theo)に指名されたので、スベルトにもっと人気が集まるようにこれからも頑張りたいと思います！
 - 🤐 Also a mod in the svelte discord, so you better star my projects if you want to avoid the ban hammer.
 - ⚡ 日本のコミュニティーでも活動しています！
+
+---
+
+[![Theo's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=theo-steiner)](https://github.com/anuraghazra/github-readme-stats)
