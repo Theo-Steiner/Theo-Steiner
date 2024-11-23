@@ -21,4 +21,4 @@ Random Facts about me 🙈 私について：
 
 ---
 
-[![Theo's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=theo-steiner&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
+[![Theo's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=theo-steiner&langs_count=10&size_weight=0.5&count_weight=0.5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
